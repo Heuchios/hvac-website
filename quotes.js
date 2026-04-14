@@ -3,7 +3,7 @@ const quotes = [
     quoteNumber: "5318008",
     customer: "Vanscory School",
     date: "2026-03-18",
-    pdf: "quotes/5318008.pdf"
+    pdf: "quotes/5318008-V2.pdf"
   },
   {
     quoteNumber: "Q-1001",
